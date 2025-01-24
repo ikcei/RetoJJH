@@ -1,5 +1,5 @@
 
 public class Main {
 
-	system out println
+	private String Nombre;
 }

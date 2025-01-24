@@ -1,5 +1,5 @@
 
 public class Main {
 
-	system
+	system out println
 }
